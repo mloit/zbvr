@@ -24,12 +24,12 @@
 
 The first step to building your own will be to get your hands on a bare PCB. PCB's can currently be ordered from our [Community project at PCBWay][1]. This is currently the preferred route as we do earn a small commission on every board ordered from there to help support the project (anything earned on the PCB's is shared between Zion and myself). Also please note that if you plan to resell the PCB's we ask that you fill out a [license application][7] on Zion's project site.
 
-For the components you can use this [list at DigiKey][2] as a starting point. The list includes everything except the speakers, RP2040-Zero, and push-button, for the basic configuration of the PCB. Details on a more complete conkfiguration for external power and a battery will be provided in the near future.
+For the components you can use this [list at DigiKey][2] as a starting point. The list includes everything except the speakers, RP2040-Zero, and push-button, for the basic configuration of the PCB. Details on a more complete configuration for external power and a battery will be provided in the near future.
 
-Before you purchase components a few notes.
+### Before you purchase components
 The board is designed to support either the amplifier module from DigiKey, or the amplifier module originally demonstrated by Zion in his video, from Amazon. If you have already purchased components from Amazon, you can omit getting them from the list provided above. Note that if you are going with the Amazon Amplifier this affcts a few lines in the list.
 
-### If you have already purchased, or plan to use the amplifier module from Amazon
+#### If you have already purchased, or plan to use the amplifier module from Amazon
 
 **Remove** the following 3 line items:
 1. Line 2: DFR0119-O (PAM8403 Eval board) Digikey P/N: 1738-1041-ND
