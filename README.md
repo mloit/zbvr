@@ -27,7 +27,7 @@ The first step to building your own will be to get your hands on a bare PCB. PCB
 For the components you can use this [list at DigiKey][2] as a starting point. The list includes everything except the speakers, RP2040-Zero, and push-button, for the basic configuration of the PCB. Details on a more complete configuration for external power and a battery will be provided in the near future.
 
 ### Before you purchase components
-The board is designed to support either the amplifier module from DigiKey, or the amplifier module originally demonstrated by Zion in his video, from Amazon. If you have already purchased components from Amazon, you can omit getting them from the list provided above. Note that if you are going with the Amazon Amplifier this affcts a few lines in the list.
+The board is designed to support either the amplifier module from DigiKey, or the amplifier module originally demonstrated by Zion in his video, from Amazon. If you have already purchased components from Amazon, you can omit getting them from the list provided above. Note that if you are going with the Amazon Amplifier this affcts a few lines in the list. With the exception of the items mentioned earlier, this list here effectively replaces teh BOM currently on Zion's site.
 
 #### If you have already purchased, or plan to use the amplifier module from Amazon
 
