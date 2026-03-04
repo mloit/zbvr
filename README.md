@@ -45,6 +45,7 @@ The board is designed to support either the amplifier module from DigiKey, or th
 ## Project Links:
 
 - [Full Project Homepage][3]
+- [PCB page on Zion's website (currently unlinked there)][8]
 - [Project Discord][6]
 - [3D Print Files][4] (MakerWorld)
 - [PCB Boards][1] (PCBWay)
@@ -68,3 +69,4 @@ The board is designed to support either the amplifier module from DigiKey, or th
 [5]: https://www.youtube.com/@zionbrock/videos
 [6]: https://discord.gg/p7cJ7csKEd
 [7]: https://www.zionbrock.com/radio-license
+[8]: https://www.zionbrock.com/vintage-radio-circuit-board-pcb
