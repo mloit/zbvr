@@ -62,7 +62,7 @@ The board is designed to support either the amplifier module from DigiKey, or th
 [pcb]: ./assets/zbvr-pcb-v1-a-render.png "Rendering of fully populated ZBVR-PCB-V1-A"
 [front]: ./assets/ZBVR-PCB-V1-A-Front-Final.png "Top/Component Side of PCB"
 [back]: ./assets/ZBVR-PCB-V1-A-Back-Final.png "Bottom/Solder Side of PCB"
-[1]: https://www.pcbway.com/project/shareproject/Simple_low_fi_offline_MP3_player_for_the_Zion_Brock_vintage_radio_official_PCB_664cb836.html
+[1]: https://www.pcbway.com/project/shareproject/Simple_lo_fi_offline_MP3_player_for_the_Zion_Brock_vintage_radio_official_PCB_5a9d43d7.html
 [2]: https://www.digikey.com/en/mylists/list/7UZQIHX73I
 [3]: https://www.zionbrock.com/radio
 [4]: https://makerworld.com/en/models/2163838-my-vintage-radio-offline-am-style-music-player
