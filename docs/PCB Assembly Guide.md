@@ -4,7 +4,9 @@
 
 So you've bought the PCB, and a pile of parts, now what? Now the fun begins! 
 
-This guide is intended for beginners, but is not a tutorial on how to solder. There are plenty of good resources out there already for that. Instead this guide will just walk through the process of populating the board. Intermediate and advanced readers will likley want to just go from the [schematics][1].
+This guide is intended for beginners, but is not a tutorial on how to solder. There are plenty of good resources out there already for that. Instead this guide will just walk through the process of populating the board. Intermediate and advanced readers will likley want to just go from the [schematics][1]. 
+
+Note that this guide will produce a board that is populated to be essentially equivalent to what Zion featured in his original videos with the breadboard. There are positions for more components on the board for various build options, mainly support for a battery pack, which will be released in the near future. If you will want to go with the battery option, it will be made as an upgrade path for the current board, so there is no harm in building this configuration first.
 
 [1]: /assets/zbvr-pwb-v1-a-sch.pdf
 [begin]: ./assets/pcb-blanks.jpg "blank radio PCB boards"
