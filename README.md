@@ -1,5 +1,8 @@
 # Vintage AM Radio Inspired Offline MP3 Player PCB
 
+
+***NEW:*** [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
+
 ***Complete PCB design files and documentation coming soon!***
 
 ---
