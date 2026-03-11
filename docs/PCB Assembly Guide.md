@@ -76,11 +76,11 @@ All items below (except the RP2040-Zero) can be purchased via this [list at Digi
 
 Before we begin on the PCB itself, now is a great time to take advantage of the blank PCB to act as a jig to help align the headers that need to be soldered on the modules. So if any of your modules (RP-Zero, DFPlayer, or amplifier) came without the header pins pre-soldered, now is the time to do it.
 
-1. Start by installing the blank PCB, component side up, into the 3D printed PCB holder -- without the spring-plate installed. ![alt text][mod1]
-2. If you have a single long header strip, you need to cut it into the required lengths at the notches. You can use your wire cutters for this. ![alt text][hdr1]![alt text][hdr2]
-3. Drop the header pins into the corresponding holes on the PCB, long side down. ![alt text][mod2]
-4. Place the module over the pins ![alt text][mod3]
-5. Solder the pins. ![alt text][mod4]
+1. Start by installing the blank PCB, component side up, into the 3D printed PCB holder -- without the spring-plate installed. <br>![alt text][mod1]
+2. If you have a single long header strip, you need to cut it into the required lengths at the notches. You can use your wire cutters for this. <br>![alt text][hdr1]![alt text][hdr2]
+3. Drop the header pins into the corresponding holes on the PCB, long side down. <br>![alt text][mod2]
+4. Place the module over the pins <br>![alt text][mod3]
+5. Solder the pins. <br>![alt text][mod4]
 
 Do this for all your modules that need to have pins soldered. Having the pins-pre-soldered on the modules will come in handy later.
 
@@ -121,9 +121,9 @@ While we don't have a huge number of resistors, they are all contained in a pret
 ##### Vertical Group
 To keep things easy, we'll group the resistors by overall orientation, we'll tackle the vertical ones first.
 
-1. 1K: R1, R4, R5, R7 ![alt text][ResV-1K]
-2. 4K7: R10 ![alt text][ResV-4K7]
-3. 10K: R9 ![alt text][ResV-10K]
+1. 1K: R1, R4, R5, R7 <br>![alt text][ResV-1K]
+2. 4K7: R10 <br>![alt text][ResV-4K7]
+3. 10K: R9 <br>![alt text][ResV-10K]
 
 At this point your board should look something like this
 ![alt text][ResV-1]
@@ -152,9 +152,9 @@ Clip off excess lead
 
 Now we're going to repeat the process for the horizontally aligned resistors
 
-1. 2K: R2, R3, R6 ![alt text][ResH-2K]
-2. 10K: R8 ![alt text][ResH-10K]
-3. 100R: R13, R14 ![alt text][ResH-100R]
+1. 2K: R2, R3, R6 <br>![alt text][ResH-2K]
+2. 10K: R8 <br>![alt text][ResH-10K]
+3. 100R: R13, R14 <br>![alt text][ResH-100R]
 
 At this point your board should look something like this
 ![alt text][ResH-1]
@@ -177,8 +177,8 @@ Your board should now look something like this
 
 Since we only have the 3 total small capacitors we can do them all at the same time. The process here is the same as with resistors. Note that like resistors, these small ceramic capacitors do not have a specific polarity, and can be soldered in either orientation.
 
-1. 10nF/103: C1 ![alt text][Cap-103]
-2. 100nF/104: C2, C3 ![alt text][Cap-104]
+1. 10nF/103: C1 <br>![alt text][Cap-103]
+2. 100nF/104: C2, C3 <br>![alt text][Cap-104]
 
 At this point your board should look something like this
 ![alt text][SmCap-1]
@@ -196,7 +196,7 @@ Put the board in the holder, solder, and clip
 
 The next step up in component height are the speaker connectors. In this case the connectors are self gripping, so we don't need the jig. Just press the connectors in, flip the board over, and solder the pins. We also don't need to clip the pins for these, or any of the connectors going forward. Please note the connector orientation in the photo below before soldering.
 
-1. JST-PH2: J4, J5 ![alt text][Con-PH2]
+1. JST-PH2: J4, J5 <br>![alt text][Con-PH2]
 
 At this point your board should look something like this
 ![alt text][Con-PH]
@@ -209,9 +209,9 @@ At this point your board should look something like this
 
 The next step up in component height are the front panel control connectors. In this case the connectors are not self gripping. Please note the connector orientation in the photo below before soldering.
 
-1. JST-XH2: J3 ![alt text][Con-XH2]
-2. JST-XH3: J1 ![alt text][Con-XH3]
-3. JST-XH5: J2 ![alt text][Con-XH5]
+1. JST-XH2: J3 <br>![alt text][Con-XH2]
+2. JST-XH3: J1 <br>![alt text][Con-XH3]
+3. JST-XH5: J2 <br>![alt text][Con-XH5]
 
 At this point your board should look something like this
 ![alt text][Con-XH-1]
@@ -245,8 +245,8 @@ Note that the individual header strip designators `MxJxx` are not labelled on th
 
 The RP2040-Zero needs 3 connectors. Two 9pin, and one 5 pin.
 
-1. M1 9 pin: M1J1, M1J3  ![alt text][M1-HDR9]
-2. M1 5 pin: M1J2 ![alt text][M1-HDR5]
+1. M1 9 pin: M1J1, M1J3  <br>![alt text][M1-HDR9]
+2. M1 5 pin: M1J2 <br>![alt text][M1-HDR5]
 
 Install the RP2040-Zero module to hold the connectors steady, flip the board and solder one or two pins from each of the 3 header strips to lock them in place. Then carefully remove the RP2040-Zero 
 
@@ -257,7 +257,7 @@ Install the RP2040-Zero module to hold the connectors steady, flip the board and
 
 The DFPlayer-mini needs two 8-pin connectors.
 
-1. M2 8 pin: M2J1, M2J2  ![alt text][M2-HDR8]
+1. M2 8 pin: M2J1, M2J2  <br>![alt text][M2-HDR8]
 
 [M2-HDR8]: ./assets/assembly-renderings/15-HDR-1x8.png "PCB Rendering, showing locations for the M2 8-pin headers"
 
@@ -269,8 +269,8 @@ At this point we come to a slight fork in the road. The board has been designed 
 
 ######  <a name="M3AMP"></a>  M3 Amplifier
 
-1. M3 6 pin: M3J1  ![alt text][M3-HDR6]
-2. M3 4 pin: M3J2  ![alt text][M3-HDR4]
+1. M3 6 pin: M3J1  <br>![alt text][M3-HDR6]
+2. M3 4 pin: M3J2  <br>![alt text][M3-HDR4]
 
 Install the amplifier module to hold the connectors steady, flip the board and solder one or two pins from each of the 2 header strips to lock them in place. Then carefully remove the amplifier. 
 
@@ -281,8 +281,8 @@ Install the amplifier module to hold the connectors steady, flip the board and s
 
 ######  <a name="M4AMP"></a>  M4 Amplifier
 
-1. M4 3 pin: M4J1  ![alt text][M4-HDR3]
-2. M4 2 pin: M4J2, M4J3, M4J4  ![alt text][M4-HDR2]
+1. M4 3 pin: M4J1  <br>![alt text][M4-HDR3]
+2. M4 2 pin: M4J2, M4J3, M4J4  <br>![alt text][M4-HDR2]
 
 Install the amplifier module to hold the connectors steady, flip the board and solder one or two pins from each of the 4 header strips to lock them in place. Then carefully remove the amplifier. 
 
@@ -301,7 +301,7 @@ Once all the module headers are tacked in, and the modules removed again, the bo
 
 Our final, and tallest component is the 10uF electrolytic capacitor. Unlike the capacitors, and resistors, we did before. This capacitor has a defined orientation and must be installed in the correct orientation. The soldering process remains the same as the resistors, except we can't use the jig here. 
 
-1. 10uF: C4 ![alt text][Cap-10u]
+1. 10uF: C4 <br>![alt text][Cap-10u]
 
 Note the white marking on the PCB on the one side of the circle
 ![alt text][Cap-1]
