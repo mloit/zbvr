@@ -126,16 +126,20 @@ To keep things easy, we'll group the resistors by overall orientation, we'll tac
 3. 10K: R9 <br>![alt text][ResV-10K]
 
 At this point your board should look something like this
+
 ![alt text][ResV-1]
 ![alt text][ResV-2]
 
 Put the board in the holder
+
 ![alt text][ResV-3]
 
 Solder
+
 ![alt text][ResV-4]
 
 Clip off excess lead
+
 ![alt text][ResV-5]
 
 [ResV-1K]: ./assets/assembly-renderings/01-ResV-1K.png "PCB Rendering, showing locations for 1K resistors"
@@ -157,12 +161,15 @@ Now we're going to repeat the process for the horizontally aligned resistors
 3. 100R: R13, R14 <br>![alt text][ResH-100R]
 
 At this point your board should look something like this
+
 ![alt text][ResH-1]
 
 Put the board in the holder, solder, and clip
+
 ![alt text][ResH-2]
 
 Your board should now look something like this
+
 ![alt text][ResH-3]
 
 [ResH-2K]: ./assets/assembly-renderings/04-ResH-2K.png "PCB Rendering, showing locations for 2K resistors"
@@ -181,9 +188,11 @@ Since we only have the 3 total small capacitors we can do them all at the same t
 2. 100nF/104: C2, C3 <br>![alt text][Cap-104]
 
 At this point your board should look something like this
+
 ![alt text][SmCap-1]
 
 Put the board in the holder, solder, and clip
+
 ![alt text][SmCap-2]
 
 [Cap-103]: ./assets/assembly-renderings/07-Cap-103.png "PCB Rendering, showing location for 10nF capacitor"
@@ -199,6 +208,7 @@ The next step up in component height are the speaker connectors. In this case th
 1. JST-PH2: J4, J5 <br>![alt text][Con-PH2]
 
 At this point your board should look something like this
+
 ![alt text][Con-PH]
 
 [Con-PH2]: ./assets/assembly-renderings/09-Con-PH2.png "PCB Rendering, showing locations for the PH2 connectors"
@@ -214,15 +224,18 @@ The next step up in component height are the front panel control connectors. In 
 3. JST-XH5: J2 <br>![alt text][Con-XH5]
 
 At this point your board should look something like this
+
 ![alt text][Con-XH-1]
 
 Now things get a little trickier. As the connectors are loose it can be difficult to flip the board over and put it in the jig. Another problem is due to the fact all the connectors are on one side, the jig won't put a flat/even force on them. Instead it tends to push them to the side. To sole this you can use the lead bending jig as a wedge on the opposite side to balance out the plate before soldering.
+
 ![alt text][Con-XH-2]
 
 **Tip:** Alternatively, and probably easier here, is to just solder each connector individually outside the jig, using your finger to hold the connector flat to the board as you solder one of the pins to tack it in place. Once all are tacked in, you can proceed to solder the rest of the pins.
 
 
 Once complete, your board should now look something like this
+
 ![alt text][Con-XH-3]
 
 
@@ -304,13 +317,16 @@ Our final, and tallest component is the 10uF electrolytic capacitor. Unlike the 
 1. 10uF: C4 <br>![alt text][Cap-10u]
 
 Note the white marking on the PCB on the one side of the circle
+
 ![alt text][Cap-1]
 
 This the white stripe with the `-` on the side of the capacitor must align with the white marking on the board.
+
 ![alt text][Cap-2]
 
 
 Once the cap is soldered, and clipped, your board should look something like this
+
 ![alt text][Cap-3]
 
 [Cap-10u]: ./assets/assembly-renderings/20-Cap-10u.png "PCB Rendering, showing location for the 10uF capacitor"
@@ -332,6 +348,7 @@ All that's left to do for the PCB now is install the modules, and program the mi
 ---
 
 ## <a name="bender"></a> Lead Bending Tool
+
 ![alt text][bendaid]
 
 The Bending aid is designed to allow for accurately bending the leads of 1/4W resistors for a standard 0.4in hole spacing. The jig thickness is also such that if the leads are cut flush with the bottom, it should be just about perfect for a standard 1.6mm (0.064in) PCB. Though I would recommend trimming after soldering.
@@ -350,6 +367,7 @@ or the `STL` can be [downloaded directly](./assets/soldering-aids/bend-aid-new.s
 ---
 
 ## <a name="holder"></a> PCB Holder
+
 ![alt text][pcbaid]
 
 The PCB holding jig is intended to work like a 3rd hand, helping to support components as you are soldering. 
@@ -365,6 +383,7 @@ or the individual  `STL` files can be downloaded:
 **Note:** that these are the same models as are on the radio project page over on [MakerWorld][4]. 
 
 The clips simply slide into their respective grooves on the main holder body. (Photos are of an earlier prototype that was asymmetrical, the download is completely symmetrical in its design)
+
 ![alt text][pcbaid1]
 
 To assemble the plate, the 2 springs need to be glued to the plate in the provided divots. You may need to file off any elephants foot, and the corners of the nub on the spring for it to sit firm and flat in the plate feature. Simply put a drop of CA glue in the divot and then press in the nub of the spring. (Photos are of an earlier prototype that was asymmetrical, the download is completely symmetrical in its design)
