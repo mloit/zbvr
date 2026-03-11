@@ -6,7 +6,7 @@ So you've bought the PCB, and a pile of parts, now what? Now the fun begins!
 
 This guide is intended for beginners, but is not a tutorial on how to solder. There are plenty of good resources out there already for that. Instead this guide will just walk through the process of populating the board. Intermediate and advanced readers will likley want to just go from the [schematics][1].
 
-[1]: ./assets/zbvr-pwb-v1-a-sch.pdf
+[1]: /assets/zbvr-pwb-v1-a-sch.pdf
 [begin]: ./assets/pcb-blanks.jpg "blank radio PCB boards"
 
 ---
