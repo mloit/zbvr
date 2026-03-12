@@ -187,10 +187,8 @@ Your board should now look something like this
 
 Since we only have the 3 total small capacitors we can do them all at the same time. The process here is the same as with resistors. Note that like resistors, these small ceramic capacitors do not have a specific polarity, and can be soldered in either orientation.
 
-1. 10nF/103: C1 <br>![alt text][Cap-103]
-2. 100nF/104: C2, C3 <br>![alt text][Cap-104]
-
-**Note** On the DigiKey components the 10nF capacitor is labelled as 10,000pF and the 100nF capacitor is labelled as 0.1uF
+1. 10nF/103: C1 (10,000pF) <br>![alt text][Cap-103]
+2. 100nF/104: C2, C3 (0.1uF) <br>![alt text][Cap-104]
 
 At this point your board should look something like this
 
