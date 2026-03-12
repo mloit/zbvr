@@ -4,7 +4,7 @@
 
 So you've bought the PCB, and a pile of parts, now what? Now the fun begins! 
 
-This guide is intended for beginners, but is not a tutorial on how to solder. There are plenty of good resources out there already for that. Instead this guide will just walk through the process of populating the board. Intermediate and advanced readers will likley want to just go from the [schematics][1]. 
+This guide is intended for beginners, but is not a tutorial on how to solder. There are plenty of good resources out there already for that. Instead this guide will just walk through the process of populating the board. Intermediate and advanced readers will likely want to just go from the [schematics][1]. 
 
 Note that this guide will produce a board that is populated to be essentially equivalent to what Zion featured in his original videos with the breadboard. There are positions for more components on the board for various build options, mainly support for a battery pack, which will be released in the near future. If you will want to go with the battery option, it will be made as an upgrade path for the current board, so there is no harm in building this configuration first.
 
@@ -24,8 +24,8 @@ All items below (except the RP2040-Zero) can be purchased via this [list at Digi
 - 3x 2K resistor
 - 1x 4K7 resistor
 - 2x 10K resistor
-- 1x 10nF capacitor (`103`)
-- 2x 100nF capacitor (`104`)
+- 1x 10nF capacitor (`103` / 10000pF)
+- 2x 100nF capacitor (`104` / 0.1uF)
 - 1x 10uF Capacitor
 - 2x JST PH series 2 pin connector (`B2B-PH-K-S`)
 - 1x JST XH series 2 pin connector (`B2B-XH-A`)
@@ -70,6 +70,7 @@ All items below (except the RP2040-Zero) can be purchased via this [list at Digi
 - Digital Volt Meter
 
 [2]: https://www.digikey.com/en/mylists/list/7UZQIHX73I
+
 ---
 
 ## Assembly
@@ -188,6 +189,8 @@ Since we only have the 3 total small capacitors we can do them all at the same t
 
 1. 10nF/103: C1 <br>![alt text][Cap-103]
 2. 100nF/104: C2, C3 <br>![alt text][Cap-104]
+
+**Note** On the DigiKey components the 10nF capacitor is labelled as 10,000pF and the 100nF capacitor is labelled as 0.1uF
 
 At this point your board should look something like this
 
