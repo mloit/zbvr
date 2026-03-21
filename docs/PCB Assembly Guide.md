@@ -357,7 +357,7 @@ All that's left to do for the PCB now is install the modules, and program the mi
 The Bending aid is designed to allow for accurately bending the leads of 1/4W resistors for a standard 0.4in hole spacing. The jig thickness is also such that if the leads are cut flush with the bottom, it should be just about perfect for a standard 1.6mm (0.064in) PCB. Though I would recommend trimming after soldering.
 
 The bending jig is on the plate in the `.3MF` print profile for [assembly-jigs][3]
-or the `STL` can be [downloaded directly](./assets/soldering-aids/bend-aid-new.stl).
+or the `STL` can be [downloaded directly](/assets/soldering-aids/bend-aid-new.stl).
 
 **Note:** that these are the same models as are on the radio project page over on [MakerWorld][4]. 
 
@@ -378,10 +378,10 @@ The PCB holding jig is intended to work like a 3rd hand, helping to support comp
 All the parts for the PCB holder jig are on the plate in the `.3MF` print profile for [assembly-jigs][3]
 or the individual  `STL` files can be downloaded:
 
-- [main holder](./assets/soldering-aids/soldering-aid.stl) qty: 1
-- [clip](./assets/soldering-aids/soldering-aid-clip.stl) qty: 2
-- [plate] (./assets/soldering-aids/soldering-aid-plate.stl) qty: 1
-- [spring](./assets/soldering-aids/soldering-aid-spring.stl) qty: 2
+- [main holder](/assets/soldering-aids/soldering-aid.stl) qty: 1
+- [clip](/assets/soldering-aids/soldering-aid-clip.stl) qty: 2
+- [plate](/assets/soldering-aids/soldering-aid-plate.stl) qty: 1
+- [spring](/assets/soldering-aids/soldering-aid-spring.stl) qty: 2
 
 **Note:** that these are the same models as are on the radio project page over on [MakerWorld][4]. 
 
@@ -400,5 +400,5 @@ To assemble the plate, the 2 springs need to be glued to the plate in the provid
 [pcbaid3]: ./assets/plate.jpg "PCB aid plate with springs in place"
 
 
-[3]: ./assets/assembly-jigs.3mf
+[3]: /assets/assembly-jigs.3mf
 [4]: https://makerworld.com/en/models/2163838-my-vintage-radio-offline-am-style-music-player
