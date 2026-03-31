@@ -1,11 +1,20 @@
 # Vintage AM Radio Inspired Offline MP3 Player PCB
 
-
-***NEW:*** [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
-
-***NEW:*** [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
-
 ***Complete PCB design files and documentation coming soon!***
+
+## Announcements 
+
+- ***NEW:*** [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
+
+- ***NEW:*** [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
+
+- ***Coming Soon:*** Updated firmware (Early release available in `#software` on the Discord server)
+
+- ***Coming Soon:*** Battery module PCB and assembly guides
+
+
+## Errata
+A number of boards have been exhibiting a problem when turning on the radio via the potentiometer, the connection to Thonny (or other serial terminal) is lost. This appears to be due to a dip in voltage as a result of the inrush current to charg up the amplifier circuit. To address this I recommend soldering a 100uF electrolytic (Digikey: 1189-2195-ND, or similar) between the 5V and Gnd pins of the GPIO connector (J10) located between the RP-Zero and the DFPlayer
 
 ---
 ## The PCB
