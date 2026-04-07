@@ -8,7 +8,7 @@
 
 - ***NEW:*** [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
 
-- ***Coming Soon:*** Updated firmware (Early release available in `#software` on the Discord server)
+- ***NEW:*** [Updated firmware](https://github.com/mloit/zbvr-firmware) (Early release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases))
 
 - ***Coming Soon:*** Battery module PCB and assembly guides
 
