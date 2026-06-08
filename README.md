@@ -4,7 +4,7 @@
 
 ## Announcements 
 
-- ***NEW:*** [26.0.1 firmware](https://github.com/mloit/zbvr-firmware) (Latest release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases/latest)
+- ***NEW:*** [26.0.1 firmware](https://github.com/mloit/zbvr-firmware) (Latest release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases/latest))
 
 - ***Coming Soon:*** Battery module PCB and assembly guides
   
