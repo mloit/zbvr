@@ -4,13 +4,16 @@
 
 ## Announcements 
 
-- ***NEW:*** [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
-
-- ***NEW:*** [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
-
-- ***NEW:*** [Updated firmware](https://github.com/mloit/zbvr-firmware) (Early release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases))
+- ***NEW:*** [26.0.1 firmware](https://github.com/mloit/zbvr-firmware) (Latest release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases/latest)
 
 - ***Coming Soon:*** Battery module PCB and assembly guides
+  
+- ***Coming Soon:*** Big Speaker Mod
+
+## Docs
+- [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
+
+- [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
 
 
 ## Errata
@@ -63,7 +66,7 @@ The board is designed to support either the amplifier module from DigiKey, or th
 - [Project Discord][6]
 - [3D Print Files][4] (MakerWorld)
 - [PCB Boards][1] (PCBWay)
-- [Components][2] (DigiKey) ***Currently the amplifier is out of stock***
+- [Components][2] (DigiKey)
 - [Components Alternate][9] (DigiKey) -- for when you are using the amplifier from Amazon
 - [Zion Brock's YouTube][5]
 
