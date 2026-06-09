@@ -12,9 +12,9 @@
   
 
 ## Docs
-- [PCB Assembly Guide now available](./docs/PCB%20Assembly%20Guide.md)
+- [PCB Assembly Guide](./docs/PCB%20Assembly%20Guide.md)
 
-- [Wiring Harness Assembly Guide now available](./docs/Wiring%20Harness%20Assembly%20Guide.md)
+- [Wiring Harness Assembly Guide](./docs/Wiring%20Harness%20Assembly%20Guide.md)
 
 
 ## Errata
