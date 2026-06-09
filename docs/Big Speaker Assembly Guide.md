@@ -13,12 +13,12 @@ So you build the [radio with the PCB][1], but wanted bigger sound from it. This 
 ## Materials
 
 - 1x 3D Printed speaker mount and enclosure
-	- [All Parts 3MF](./assets/speaker/big-speaker.3mf) 
-	- [All Parts STL/ZIP](./assets/speaker/big-speaker.zip)
+	- [All Parts 3MF](/assets/speaker/big-speaker.3mf) 
+	- [All Parts STL/ZIP](/assets/speaker/big-speaker.zip)
 	- Individual STL files
-		- 1x [Mount](./assets/speaker/mount-big-spkr.stl)
-		- 1x [Speaker Cup](./assets/speaker/GRS-3AS-4-cup.stl)
-		- 1x [Face Ring](./assets/speaker/GRS-3AS-4-ring.stl)
+		- 1x [Mount](/assets/speaker/mount-big-spkr.stl)
+		- 1x [Speaker Cup](/assets/speaker/GRS-3AS-4-cup.stl)
+		- 1x [Face Ring](/assets/speaker/GRS-3AS-4-ring.stl)
 - 6x M3 Threaded heat-set insert nuts
 	- [Maker World M3x5x4](https://ca.store.bambulab.com/products/round-threaded-brass-heat-insert-nut) AB012
 	- [CNC Kitchen M3x5x4](https://cnckitchen.store/products/made-for-voron-gewindeeinsatz-threaded-insert-m3x5x4-100-stk-pcs)
