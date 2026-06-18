@@ -4,7 +4,7 @@
 
 ## Announcements 
 
-- ***NEW:*** [26.0.1 firmware](https://github.com/mloit/zbvr-firmware) (Latest release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases/latest))
+- ***NEW:*** [26.0.2 firmware](https://github.com/mloit/zbvr-firmware) (Latest release available on the [Releases page](https://github.com/mloit/zbvr-firmware/releases/latest))
 
 - ***New:*** [Big Speaker Option](./docs/Big%20Speaker%20Assembly%20Guide.md)
 
