@@ -11,7 +11,11 @@
 - ***New*** BOM's for PCB upgrade and battery module (see below)
 
 - ***Coming Soon:*** Battery module PCB and assembly guides
-  
+
+---
+
+Want to support my efforts? Feel free to [Buy me a Coffee][support]
+---
 
 ## Docs
 - [PCB Assembly Guide](./docs/PCB%20Assembly%20Guide.md)
@@ -55,10 +59,13 @@ Depending on which verion of the PCB you are plannning to build/use the back pla
 - Standard PCB Build: "Back Plate for PCB Version"
 - Full PCB Build: "Back Plate for PCB Battery Version"
 
-#### Battery Option & Big Speaker
+#### Battery & Big Speaker Options
 
 Note that the "Big Speaker Option" profile I have here currently does not have mounts for the battery module. I will be updating this soon to add the mounting points. If building now, I recommend using Hook and Loop (Velcro) adhesive fastener strips to attach he battery module to the back of the speaker shell. All versions of the PCB here support the big speaker, so no changes are required on the PCB itself.
 
+Note the BOM's for the battery do NOT include teh external DC supplpy, as it will depend on your region. The requrements are 10W or more power, 9-12V. 5.5mm barrel with 2.1mm pin, centre positive.
+
+- Example for North America: [GlobTek WR9HD1333CCP-F(R6B)][dk-psu-us] (Digikey)
 
 ### Before you purchase components
 The board is designed to support either the amplifier module from DigiKey, or the amplifier module originally demonstrated by Zion in his video, from Amazon. If you have already purchased components from Amazon, you can omit getting them from the list provided above. Note that if you are going with the Amazon Amplifier this affcts a few lines in the list. With the exception of the items mentioned earlier, this list here effectively replaces teh BOM currently on Zion's site.
@@ -95,6 +102,10 @@ If you want your radio to be powered by an external DC supply, or be powered by 
 - [Amplifier Module][amp] (Amazon) -- Optional/Alternate
 - [RP2040-Zero][rp] (Amazon)
 
+**Note:** the BOM does NOT include teh external DC supplpy, as it will depend on your region. The requrements are 10W or more power, 9-12V. 5.5mm barrel with 2.1mm pin, centre positive.
+
+- Example for North America: [GlobTek WR9HD1333CCP-F(R6B)][dk-psu-us] (Digikey)
+
 
 ##### Standard to Full Upgrade (with Battery)
 
@@ -104,6 +115,11 @@ This BOM contains only the components required to upgrade your PCB from the stan
 - [PC4 Battery holder][pc4] (Amazon)
 - [Battery Charger Module][chg] (Amazon)
 - [Battery Protection Module][prot] (Amazon)
+
+**Note:** the BOM does NOT include teh external DC supplpy, as it will depend on your region. The requrements are 10W or more power, 9-12V. 5.5mm barrel with 2.1mm pin, centre positive.
+
+- Example for North America: [GlobTek WR9HD1333CCP-F(R6B)][dk-psu-us] (Digikey)
+
 
 ##### Battery Only
 
@@ -132,6 +148,8 @@ This BOM contains just the DigiKey parts requred for the Battery Module and teh 
 
 ---
 
+Want to support my efforts? Feel free to [Buy me a Coffee][support]
+
 [![alt text][cc-by-nc-sa]](./LICENSE.txt)
 
 
@@ -152,9 +170,11 @@ This BOM contains just the DigiKey parts requred for the Battery Module and teh 
 [dk-pcb-full]: https://www.digikey.com/en/mylists/list/RAMKQWNZRU
 [dk-pcb-upg]: https://www.digikey.com/en/mylists/list/QIRFQ48IGT
 [dk-bat]: https://www.digikey.com/en/mylists/list/4W6Q9O6ATI
+[dk-psu-us]: https://www.digikey.ca/en/products/detail/globtek-inc/WR9HD1333CCP-F-R6B/13245472
 [rp]: https://www.amazon.com/dp/B0C5Q2V49P?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 [amp]: https://www.amazon.com/HiLetgo%C2%AE-PAM8403-Digital-Amplifier-2-5-5V/dp/B00LODGV64/ref=sr_1_1_sspa?th=1
 [pc4]: https://www.amazon.com/dp/B0B1JJZ363?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 [chg]: https://www.amazon.com/Bloepum-Charging-Management-Lithium-Battery/dp/B0FB8K6PVR
 [prot]: https://www.amazon.com/dp/B0DDY32WF4?ref=ppx_yo2ov_dt_b_fed_asin_title
+[support]: https://buymeacoffee.com/canadianavenger
 
